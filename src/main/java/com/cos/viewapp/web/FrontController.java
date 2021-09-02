@@ -31,7 +31,7 @@ public class FrontController { // - 컴포넌트
 		
 		List<Board> boards = new ArrayList<>();	
 		boards.add(new Board(1, "제목1"));
-		boards.add(new Board(2, "제목2"));
+		boards.add(new Board(2, "제목3"));
 		
 		
 		
